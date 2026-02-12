@@ -4,7 +4,6 @@ A modern, dark-themed stopwatch application built with C++ and Qt 6.
 
 
 ![App Screenshot](screenshot.png)
-> *Note: Please replace `screenshot.png` with an actual screenshot of your application running.*
 
 ## ✨ Features
 
